@@ -1,0 +1,7 @@
+{
+  "name": "AI Hairstyle Suggester",
+  "description": "An application that uses AI to suggest new hairstyles. Users can upload a photo, select their preferences for style, color, and length, and receive a visually generated hairstyle recommendation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
